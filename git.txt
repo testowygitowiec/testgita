@@ -1,1 +1,2 @@
 https://github.com/testowygitowiec/testgita.git
+to jest jakis tekst
